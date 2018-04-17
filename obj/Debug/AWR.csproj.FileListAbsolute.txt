@@ -1,0 +1,11 @@
+C:\Users\P884RCK\source\repos\AWR\AWR\bin\Debug\AWR.exe.config
+C:\Users\P884RCK\source\repos\AWR\AWR\bin\Debug\AWR.exe
+C:\Users\P884RCK\source\repos\AWR\AWR\bin\Debug\AWR.pdb
+C:\Users\P884RCK\source\repos\AWR\AWR\obj\Debug\AWR.csprojResolveAssemblyReference.cache
+C:\Users\P884RCK\source\repos\AWR\AWR\obj\Debug\AWR.CreateSnapshot.resources
+C:\Users\P884RCK\source\repos\AWR\AWR\obj\Debug\AWR.GenerateReport.resources
+C:\Users\P884RCK\source\repos\AWR\AWR\obj\Debug\AWR.Properties.Resources.resources
+C:\Users\P884RCK\source\repos\AWR\AWR\obj\Debug\AWR.csproj.GenerateResource.Cache
+C:\Users\P884RCK\source\repos\AWR\AWR\obj\Debug\AWR.csproj.CoreCompileInputs.cache
+C:\Users\P884RCK\source\repos\AWR\AWR\obj\Debug\AWR.exe
+C:\Users\P884RCK\source\repos\AWR\AWR\obj\Debug\AWR.pdb
