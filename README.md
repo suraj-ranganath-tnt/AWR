@@ -1,2 +1,2 @@
-# AWR
-Tool to create AWR Snap
+# Diag
+Generate csv report for Diag counters
